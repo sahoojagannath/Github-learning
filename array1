@@ -1,0 +1,7 @@
+<?php 
+
+$vlook=array("jagan","kapil","sunder");
+
+var_dump($vlook);
+
+?>
